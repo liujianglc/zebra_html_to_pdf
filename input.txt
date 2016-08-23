@@ -1,0 +1,554 @@
+<div class="new"></div>
+
+<h3>EXTEND YOUR DESKTOP APPLICATIONS TO FORKLIFTS AND&#xA0;<span style="letter-spacing: 0.0px;">MORE WITH FULL WINDOWS SUPPORT</span></h3>
+ <p>The VC80 makes it easy to give your forklift and other material
+  handling equipment operators the real-time information they need to
+  get the job done fast &#x2014; and right. You get full Windows support &#x2014; all
+  the power you need to put your Warehouse Management System and other
+  desktop applications at their fingertips. You get a super rugged
+  design, built for your toughest warehouse conditions &#x2014; including the
+  freezer. You get the fastest wireless connections available to keep
+  drivers connected to your data &#x2014; and productive. And the compact
+  design and flexible mounting options make it easy to install in even
+  the most space constrained vehicles. The VC80 &#x2014; real desktop power for
+  your warehouse vehicles.</p>
+
+
+
+    
+<script type="text/javascript" src="VC80%20Vehicle%20Mount%20Mobile%20Computer%20Spec%20Sheet_files/columncontrol.js"></script>
+
+
+
+
+    <div class="column-control">
+        <div class="_50_50_-c0">
+            <div><div class="section imagecomponent"><span id="imagecomponent_17c7"></span>
+<div class="hero-bkg-img d-align- m-align-" data-d-width="" data-d-height="" data-m-width="" data-m-height="">
+
+	<a href="https://stage-www.zebra.com/content/dam/zebra_new_ia/en-us/solutions-verticals/product/Mobile_Computers/Vehicle-Mounted/vc80-vehicle-mounted/photography-product/vc80_front_straight_033.png">
+	<picture><source srcset="/content/zebra1/us/en/vc80-spec-sheet-test/jcr:content/mainpar/columncontrol/col1par/imagecomponent_17c7/image.adapt.full.png" media="(min-width: 1280px)"><source srcset="/content/zebra1/us/en/vc80-spec-sheet-test/jcr:content/mainpar/columncontrol/col1par/imagecomponent_17c7/image.adapt.1024.png" media="(min-width: 1024px)"><source srcset="/content/zebra1/us/en/vc80-spec-sheet-test/jcr:content/mainpar/columncontrol/col1par/imagecomponent_17c7/image.adapt.768.png" media="(min-width: 768px)"><source srcset="/content/zebra1/us/en/vc80-spec-sheet-test/jcr:content/mainpar/columncontrol/col1par/imagecomponent_17c7/image.adapt.600.png" media="(min-width: 600px)"><source srcset="/content/zebra1/us/en/vc80-spec-sheet-test/jcr:content/mainpar/columncontrol/col1par/imagecomponent_17c7/imageadvancedconfig/mobileImageSrc.adapt.480.png" media="(min-width: 480px)"><source srcset="/content/zebra1/us/en/vc80-spec-sheet-test/jcr:content/mainpar/columncontrol/col1par/imagecomponent_17c7/imageadvancedconfig/mobileImageSrc.adapt.320.png"><!--[if lt IE 9]><img src="/content/zebra1/us/en/vc80-spec-sheet-test/jcr:content/mainpar/columncontrol/col1par/imagecomponent_17c7/image.adapt.full.png"><![endif]--><img srcset="/content/zebra1/us/en/vc80-spec-sheet-test/jcr:content/mainpar/columncontrol/col1par/imagecomponent_17c7/image.adapt.full.png"></picture><noscript><img src="/content/zebra1/us/en/vc80-spec-sheet-test/_jcr_content/mainpar/columncontrol/col1par/imagecomponent_17c7/image.adapt.full.png"></noscript></a>
+	</div>
+
+<script type="text/javascript">
+	if( Zebra && Zebra.Image ) {
+		Zebra.Image.init();
+	}
+</script></div>
+<div class="section text"><span id="text_ea5b"></span>
+<div style="">
+    <p><b>Freezer-ready for the coldest supply chain</b></p>
+<p>You get true frost and condensation free operation with</p>
+<p>touchscreen, board and battery heaters, plus smart temperature</p>
+<p>sensors that automatically control heater and heating speed.</p>
+<p><b>Maximum rugged design</b></p>
+<p>The VC80 is ready for your toughest environments, with dustand-</p>
+<p>water tight IP66 sealing, sealed connectors, and extreme</p>
+<p>temperature, shock and vibration testing.</p>
+<p><b>Easy to see indoors and outside</b></p>
+<p>Choose either 1,000 NITs for a super bright screen that is easy</p>
+<p>to see outdoors or 400 NITs for indoor operation.</p>
+<p>Programmable keys to simplify the most complex operations</p>
+<p>With six direct and six soft programmable keys, multi-step</p>
+<p>processes can be executed with a one keypress, boosting</p>
+<p>throughput and productivity.</p>
+<p><b>Flexible data entry &#x2014; touch or optional keyboard</b></p>
+<p>The touchscreen&#x2019;s soft keyboard and haptic vibration feedback</p>
+<p>make it easy to use touch input, even with the thickest gloves.</p>
+<p>Or you can choose to mount an optional keyboard on the bottom</p>
+<p>or side of the VC80.</p>
+</div></div>
+
+</div>
+        </div>
+
+        <div class="_50_50_-c1">
+            <div><div class="section text"><span id="text_46be"></span>
+<div style="">
+    <h2>Easier and More Efficient to Use</h2>
+<p><b>Designed for voice in your loudest environments</b></p>
+<p>The very loud front facing speaker and instantly accessible volume</p>
+<p>control make it easy to hear scanner feedback and</p>
+<p>app notifications.</p>
+<p><b>Fits in virtually any warehouse/material handling vehicle</b></p>
+<p>Multiple mounting options, including standard RAM mounts</p>
+<p>combine with a compact size for an easy fit and easy mounting,</p>
+<p>even in the smallest vehicles.</p>
+<p><b>Power to support today&#x2019;s graphics-intensive applications</b></p>
+<p>Get the power you need to deliver blazing speed for your</p>
+<p>applications with your choice of a dual core 1.33 GHz with</p>
+<p>2GB RAM or a quad core 1.91 GHz processor with 4GB RAM.</p>
+<p>Superior flexibility &#x2014; add bar code scanning, voice and more</p>
+<p>Different workers need different capabilities. That&#x2019;s why the</p>
+<p>VC80 offers all the ports you need to add bar code scanners,</p>
+<p>mobile printers, a push-to-talk microphone and more.</p>
+<p><b>Rock-solid fast wireless connectivity</b></p>
+<p>With support for the latest wireless standards &#x2014; 802.11a/b/g/n/ac</p>
+<p>and Bluetooth 4.0 &#x2014; plus a choice of internal or external antennas,</p>
+<p>the VC80 can give your workers/deliver desktop wired-line style</p>
+<p>performance on the most complex applications.</p>
+<p><b>Repairable, right on the spot</b></p>
+<p>Since the touchscreen &#x2014; the most frequently damaged component</p>
+<p>&#x2014; is field replaceable, trips to the service depot</p>
+<p>are eliminated, increasing device availability and your return</p>
+<p>on investment.</p>
+<p><b>Pair Bluetooth devices in a split second</b></p>
+<p>Need a separate handheld scanner? With a quick scan of the</p>
+<p>pairing bar code printed on the VC80 with Zebra&#x2019;s cordless LS3478</p>
+<p>or DS3578 scanners, your workers are up and running.</p>
+<p>Comprehensive Windows operating system (OS) support</p>
+<p>The VC80 supports Embedded Standard 7 or Windows 7</p>
+<p>Professional, and is Windows 10 ready, making it easy to extend</p>
+<p>virtually any PC-based app to your warehouse vehicles.</p>
+</div></div>
+
+</div>
+        </div>
+        
+        
+
+        
+
+        
+
+        
+    </div>
+
+<span id="text_ea5b"></span>
+<div style="">
+    <p><b>Freezer-ready for the coldest supply chain</b></p>
+<p>You get true frost and condensation free operation with</p>
+<p>touchscreen, board and battery heaters, plus smart temperature</p>
+<p>sensors that automatically control heater and heating speed.</p>
+<p><b>Maximum rugged design</b></p>
+<p>The VC80 is ready for your toughest environments, with dustand-</p>
+<p>water tight IP66 sealing, sealed connectors, and extreme</p>
+<p>temperature, shock and vibration testing.</p>
+<p><b>Easy to see indoors and outside</b></p>
+<p>Choose either 1,000 NITs for a super bright screen that is easy</p>
+<p>to see outdoors or 400 NITs for indoor operation.</p>
+<p>Programmable keys to simplify the most complex operations</p>
+<p>With six direct and six soft programmable keys, multi-step</p>
+<p>processes can be executed with a one keypress, boosting</p>
+<p>throughput and productivity.</p>
+<p><b>Flexible data entry &#x2014; touch or optional keyboard</b></p>
+<p>The touchscreen&#x2019;s soft keyboard and haptic vibration feedback</p>
+<p>make it easy to use touch input, even with the thickest gloves.</p>
+<p>Or you can choose to mount an optional keyboard on the bottom</p>
+<p>or side of the VC80.</p>
+</div><span id="imagecomponent_17c7"></span>
+<div class="hero-bkg-img d-align- m-align-" data-d-width="" data-d-height="" data-m-width="" data-m-height="">
+
+	<a href="https://stage-www.zebra.com/content/dam/zebra_new_ia/en-us/solutions-verticals/product/Mobile_Computers/Vehicle-Mounted/vc80-vehicle-mounted/photography-product/vc80_front_straight_033.png">
+	<picture><source srcset="/content/zebra1/us/en/vc80-spec-sheet-test/jcr:content/mainpar/columncontrol/col1par/imagecomponent_17c7/image.adapt.full.png" media="(min-width: 1280px)"><source srcset="/content/zebra1/us/en/vc80-spec-sheet-test/jcr:content/mainpar/columncontrol/col1par/imagecomponent_17c7/image.adapt.1024.png" media="(min-width: 1024px)"><source srcset="/content/zebra1/us/en/vc80-spec-sheet-test/jcr:content/mainpar/columncontrol/col1par/imagecomponent_17c7/image.adapt.768.png" media="(min-width: 768px)"><source srcset="/content/zebra1/us/en/vc80-spec-sheet-test/jcr:content/mainpar/columncontrol/col1par/imagecomponent_17c7/image.adapt.600.png" media="(min-width: 600px)"><source srcset="/content/zebra1/us/en/vc80-spec-sheet-test/jcr:content/mainpar/columncontrol/col1par/imagecomponent_17c7/imageadvancedconfig/mobileImageSrc.adapt.480.png" media="(min-width: 480px)"><source srcset="/content/zebra1/us/en/vc80-spec-sheet-test/jcr:content/mainpar/columncontrol/col1par/imagecomponent_17c7/imageadvancedconfig/mobileImageSrc.adapt.320.png"><!--[if lt IE 9]><img src="/content/zebra1/us/en/vc80-spec-sheet-test/jcr:content/mainpar/columncontrol/col1par/imagecomponent_17c7/image.adapt.full.png"><![endif]--><img srcset="/content/zebra1/us/en/vc80-spec-sheet-test/jcr:content/mainpar/columncontrol/col1par/imagecomponent_17c7/image.adapt.full.png"></picture><noscript><img src="/content/zebra1/us/en/vc80-spec-sheet-test/_jcr_content/mainpar/columncontrol/col1par/imagecomponent_17c7/image.adapt.full.png"></noscript></a>
+	</div>
+
+<script type="text/javascript">
+	if( Zebra && Zebra.Image ) {
+		Zebra.Image.init();
+	}
+</script><span id="text_46be"></span>
+<div style="">
+    <h2>Easier and More Efficient to Use</h2>
+<p><b>Designed for voice in your loudest environments</b></p>
+<p>The very loud front facing speaker and instantly accessible volume</p>
+<p>control make it easy to hear scanner feedback and</p>
+<p>app notifications.</p>
+<p><b>Fits in virtually any warehouse/material handling vehicle</b></p>
+<p>Multiple mounting options, including standard RAM mounts</p>
+<p>combine with a compact size for an easy fit and easy mounting,</p>
+<p>even in the smallest vehicles.</p>
+<p><b>Power to support today&#x2019;s graphics-intensive applications</b></p>
+<p>Get the power you need to deliver blazing speed for your</p>
+<p>applications with your choice of a dual core 1.33 GHz with</p>
+<p>2GB RAM or a quad core 1.91 GHz processor with 4GB RAM.</p>
+<p>Superior flexibility &#x2014; add bar code scanning, voice and more</p>
+<p>Different workers need different capabilities. That&#x2019;s why the</p>
+<p>VC80 offers all the ports you need to add bar code scanners,</p>
+<p>mobile printers, a push-to-talk microphone and more.</p>
+<p><b>Rock-solid fast wireless connectivity</b></p>
+<p>With support for the latest wireless standards &#x2014; 802.11a/b/g/n/ac</p>
+<p>and Bluetooth 4.0 &#x2014; plus a choice of internal or external antennas,</p>
+<p>the VC80 can give your workers/deliver desktop wired-line style</p>
+<p>performance on the most complex applications.</p>
+<p><b>Repairable, right on the spot</b></p>
+<p>Since the touchscreen &#x2014; the most frequently damaged component</p>
+<p>&#x2014; is field replaceable, trips to the service depot</p>
+<p>are eliminated, increasing device availability and your return</p>
+<p>on investment.</p>
+<p><b>Pair Bluetooth devices in a split second</b></p>
+<p>Need a separate handheld scanner? With a quick scan of the</p>
+<p>pairing bar code printed on the VC80 with Zebra&#x2019;s cordless LS3478</p>
+<p>or DS3578 scanners, your workers are up and running.</p>
+<p>Comprehensive Windows operating system (OS) support</p>
+<p>The VC80 supports Embedded Standard 7 or Windows 7</p>
+<p>Professional, and is Windows 10 ready, making it easy to extend</p>
+<p>virtually any PC-based app to your warehouse vehicles.</p>
+</div><span id="text_edd2"></span>
+<div style="">
+    </div>
+
+    
+
+
+
+
+    <div class="column-control">
+        <div class="_50_50_-c0">
+            <div>
+</div>
+        </div>
+
+        <div class="_50_50_-c1">
+            <div>
+</div>
+        </div>
+        
+        
+
+        
+
+        
+
+        
+    </div>
+
+<span id="shadedboxcontainer_e"></span>
+<div class="shaded-box-container elgray topborder-lgray leftborder-lgray rightborder-lgray bottomborder-lgray">
+        <div class="par parsys"><div class="section text"><span id="text_e79d"></span>
+<div style="">
+    <h3 style="text-align: center;">PUT REAL DESKTOP POWER IN YOUR WAREHOUSE VEHICLES WITH THE VC80.</h3>
+<p style="text-align: center;">FOR MORE INFORMATION, VISIT <a href="https://stage-www.zebra.com/us/en/products/mobile-computers/vehicle-mounted/vc80.html">WWW.ZEBRA.COM/VC80</a> OR ACCESS OUR</p>
+<p style="text-align: center;">GLOBAL CONTACT DIRECTORY AT <a href="https://stage-www.zebra.com/us/en/about-zebra/contact-zebra.html">WWW.ZEBRA.COM/CONTACT</a></p>
+</div></div>
+
+</div>
+</div><span id="shadedboxcontainer"></span>
+<div class="shaded-box-container lgray">
+        <div class="par parsys">
+</div>
+</div><span id="text_e79d"></span>
+<div style="">
+    <h3 style="text-align: center;">PUT REAL DESKTOP POWER IN YOUR WAREHOUSE VEHICLES WITH THE VC80.</h3>
+<p style="text-align: center;">FOR MORE INFORMATION, VISIT <a href="https://stage-www.zebra.com/us/en/products/mobile-computers/vehicle-mounted/vc80.html">WWW.ZEBRA.COM/VC80</a> OR ACCESS OUR</p>
+<p style="text-align: center;">GLOBAL CONTACT DIRECTORY AT <a href="https://stage-www.zebra.com/us/en/about-zebra/contact-zebra.html">WWW.ZEBRA.COM/CONTACT</a></p>
+</div>
+
+    
+
+
+
+
+    <div class="column-control">
+        <div class="_50_50_-c0">
+            <div><div class="tablegrid parbase section"><span id="tablegrid_e936"></span>
+<div class="table-grid-mobile"></div>
+			<table border="1" cellpadding="1" cellspacing="0" width="100%">
+<caption><b>PHYSICAL CHARACTERISTICS</b></caption>
+<tbody><tr><td width="100"><b>Dimensions</b></td>
+<td><p>10.4 in. L x 9.3 in. W x 3.5 in. D</p>
+<p>265 mm L x 235 mm W x 90 mm D</p>
+</td>
+</tr><tr><td><b>Weight</b></td>
+<td>8.6 lbs./3.9 kg</td>
+</tr><tr><td><b>Keyboard Options</b></td>
+<td>External QWERTY and AZERTY, optional L-mount</td>
+</tr><tr><td><b>Power</b></td>
+<td><p>Internal power supply 12-48V nominal,</p>
+<p>designed for forklift power</p>
+</td>
+</tr><tr><td><p><b>UPS and Backup</b></p>
+<p><b>Battery</b></p>
+</td>
+<td><p>Rechargeable UPS battery for operation during</p>
+<p>power loss; internal rechargeable battery for</p>
+<p>multiple months of real-time clock backup</p>
+</td>
+</tr><tr><td><b>Display</b></td>
+<td><p>10.4 in. color XGA (1024 x 768) LCD; 32-bit</p>
+<p>color depth; choice of 400 or 1,000 NITs; 24-bit;</p>
+<p>LED backlight</p>
+</td>
+</tr><tr><td><b>Touchscreen</b></td>
+<td><p>Resistive touchscreen with passive stylus or</p>
+<p>finger operation</p>
+<p>Freezer version: integrated touchscreen heater</p>
+<p>evaporates external condensation when</p>
+<p>moving out of and into freezers</p>
+</td>
+</tr><tr><td><b>Keys</b></td>
+<td><p>Six (6) programmable macro keys; keyboard</p>
+<p>key; volume; brightness; blue key for 2nd level</p>
+<p>functions; on/off key</p>
+</td>
+</tr><tr><td><b>Interface Ports</b></td>
+<td><p>Standard sealed and secured connectors:</p>
+<p>2 RS-232 serial ports; 1 standard USB port;</p>
+<p>1 powered USB port; 1 3.5mm audio jack;</p>
+<p>optional Ethernet (10/100/1000 Mbps) or</p>
+<p>isolated CAN port with SAE J1929 support</p>
+</td>
+</tr><tr><td><b>Indicators</b></td>
+<td>Power LED; warning LED; blue key status LED</td>
+</tr><tr><td><b>Scanner Support</b></td>
+<td><p>Handheld scanners and imagers connected via</p>
+<p>USB, RS-232 or Bluetooth</p>
+</td>
+</tr><tr><td><b>Mounting</b></td>
+<td><p>Quick release mount; standard RAM mounts;</p>
+<p>adapters for legacy vehicle computer mounts</p>
+</td>
+</tr></tbody></table>
+<script type="text/javascript" src="VC80%20Vehicle%20Mount%20Mobile%20Computer%20Spec%20Sheet_files/tablegrid.js"></script>
+</div>
+<div class="tablegrid parbase section"><span id="tablegrid_8c76"></span>
+<div class="table-grid-mobile"></div>
+			<table border="1" cellpadding="1" cellspacing="0" width="100%">
+<caption><b>USER ENVIRONMENT</b></caption>
+<tbody><tr><td>OPERATING TEMP</td>
+<td>-22&#xB0; to 122&#xB0; F/-30&#xB0; to 50&#xB0; C</td>
+</tr><tr><td>Storage Temp.</td>
+<td>-22&#xB0; to 140&#xB0; F/-30&#xB0; to 60&#xB0; C</td>
+</tr></tbody></table>
+</div>
+
+</div>
+        </div>
+
+        <div class="_50_50_-c1">
+            <div><div class="tablegrid parbase section"><span id="tablegrid_8bc8"></span>
+<div class="table-grid-mobile"></div>
+			<table border="1" cellpadding="1" cellspacing="0" width="100%">
+<caption><b>USER ENVIRONMENT (continued)</b></caption>
+<tbody><tr><td width="100"><b>Dimensions</b></td>
+<td><p>10.4 in. L x 9.3 in. W x 3.5 in. D</p>
+<p>265 mm L x 235 mm W x 90 mm D</p>
+</td>
+</tr><tr><td><b>Weight</b></td>
+<td>8.6 lbs./3.9 kg</td>
+</tr><tr><td><b>Keyboard Options</b></td>
+<td>External QWERTY and AZERTY, optional L-mount</td>
+</tr><tr><td><b>Power</b></td>
+<td><p>Internal power supply 12-48V nominal,</p>
+<p>designed for forklift power</p>
+</td>
+</tr><tr><td><p><b>UPS and Backup</b></p>
+<p><b>Battery</b></p>
+</td>
+<td><p>Rechargeable UPS battery for operation during</p>
+<p>power loss; internal rechargeable battery for</p>
+<p>multiple months of real-time clock backup</p>
+</td>
+</tr><tr><td><b>Display</b></td>
+<td><p>10.4 in. color XGA (1024 x 768) LCD; 32-bit</p>
+<p>color depth; choice of 400 or 1,000 NITs; 24-bit;</p>
+<p>LED backlight</p>
+</td>
+</tr><tr><td><b>Touchscreen</b></td>
+<td><p>Resistive touchscreen with passive stylus or</p>
+<p>finger operation</p>
+<p>Freezer version: integrated touchscreen heater</p>
+<p>evaporates external condensation when</p>
+<p>moving out of and into freezers</p>
+</td>
+</tr><tr><td><b>Keys</b></td>
+<td><p>Six (6) programmable macro keys; keyboard</p>
+<p>key; volume; brightness; blue key for 2nd level</p>
+<p>functions; on/off key</p>
+</td>
+</tr><tr><td><b>Interface Ports</b></td>
+<td><p>Standard sealed and secured connectors:</p>
+<p>2 RS-232 serial ports; 1 standard USB port;</p>
+<p>1 powered USB port; 1 3.5mm audio jack;</p>
+<p>optional Ethernet (10/100/1000 Mbps) or</p>
+<p>isolated CAN port with SAE J1929 support</p>
+</td>
+</tr><tr><td><b>Indicators</b></td>
+<td>Power LED; warning LED; blue key status LED</td>
+</tr><tr><td><b>Scanner Support</b></td>
+<td><p>Handheld scanners and imagers connected via</p>
+<p>USB, RS-232 or Bluetooth</p>
+</td>
+</tr><tr><td><b>Mounting</b></td>
+<td><p>Quick release mount; standard RAM mounts;</p>
+<p>adapters for legacy vehicle computer mounts</p>
+</td>
+</tr></tbody></table>
+</div>
+<div class="tablegrid parbase section"><span id="tablegrid_9660"></span>
+<div class="table-grid-mobile"></div>
+			<table border="1" cellpadding="1" cellspacing="0" width="100%">
+<tbody><tr><td><b>ACCESSORIES</b></td>
+</tr><tr><td>Corded scanners; cordless scanners; antennas; push-to-talk 
+speaker/ microphone; keyboards; keyboard mounts; adaptation kits (power 
+cables) for drop in replacements of legacy vehicle mount computer 
+installations; quick release mount; RAM mounts; scanner holder (for a 
+complete list of accessories, visit <a href="https://stage-www.zebra.com/us/en/products/mobile-computers/vehicle-mounted/vc80.html">www.zebra.com/vc80</a>)&#xA0;</td>
+</tr><tr><td><b>WARRANTY</b></td>
+</tr><tr><td>Subject to the terms of Zebra&#x2019;s hardware warranty 
+statement, the VC80 is warranted against defects in workmanship and 
+materials for a period of 1 (one) year from the date of shipment. For 
+complete warranty statement, go to: <a href="https://stage-www.zebra.com/us/en/support-downloads/warranty.html">http://www.zebra.com/warranty</a>.</td>
+</tr><tr><td><b>RECOMMENDED SERVICES</b></td>
+</tr><tr><td>Zebra OneCare Select</td>
+</tr></tbody></table>
+</div>
+
+</div>
+        </div>
+        
+        
+
+        
+
+        
+
+        
+    </div>
+
+<span id="text_1079131757"></span>
+<div style="">
+    <h2>VC80 Specifications</h2>
+</div><span id="tablegrid_8c76"></span>
+<div class="table-grid-mobile"></div>
+			<table border="1" cellpadding="1" cellspacing="0" width="100%">
+<caption><b>USER ENVIRONMENT</b></caption>
+<tbody><tr><td>OPERATING TEMP</td>
+<td>-22&#xB0; to 122&#xB0; F/-30&#xB0; to 50&#xB0; C</td>
+</tr><tr><td>Storage Temp.</td>
+<td>-22&#xB0; to 140&#xB0; F/-30&#xB0; to 60&#xB0; C</td>
+</tr></tbody></table>
+<span id="tablegrid_8bc8"></span>
+<div class="table-grid-mobile"></div>
+			<table border="1" cellpadding="1" cellspacing="0" width="100%">
+<caption><b>USER ENVIRONMENT (continued)</b></caption>
+<tbody><tr><td width="100"><b>Dimensions</b></td>
+<td><p>10.4 in. L x 9.3 in. W x 3.5 in. D</p>
+<p>265 mm L x 235 mm W x 90 mm D</p>
+</td>
+</tr><tr><td><b>Weight</b></td>
+<td>8.6 lbs./3.9 kg</td>
+</tr><tr><td><b>Keyboard Options</b></td>
+<td>External QWERTY and AZERTY, optional L-mount</td>
+</tr><tr><td><b>Power</b></td>
+<td><p>Internal power supply 12-48V nominal,</p>
+<p>designed for forklift power</p>
+</td>
+</tr><tr><td><p><b>UPS and Backup</b></p>
+<p><b>Battery</b></p>
+</td>
+<td><p>Rechargeable UPS battery for operation during</p>
+<p>power loss; internal rechargeable battery for</p>
+<p>multiple months of real-time clock backup</p>
+</td>
+</tr><tr><td><b>Display</b></td>
+<td><p>10.4 in. color XGA (1024 x 768) LCD; 32-bit</p>
+<p>color depth; choice of 400 or 1,000 NITs; 24-bit;</p>
+<p>LED backlight</p>
+</td>
+</tr><tr><td><b>Touchscreen</b></td>
+<td><p>Resistive touchscreen with passive stylus or</p>
+<p>finger operation</p>
+<p>Freezer version: integrated touchscreen heater</p>
+<p>evaporates external condensation when</p>
+<p>moving out of and into freezers</p>
+</td>
+</tr><tr><td><b>Keys</b></td>
+<td><p>Six (6) programmable macro keys; keyboard</p>
+<p>key; volume; brightness; blue key for 2nd level</p>
+<p>functions; on/off key</p>
+</td>
+</tr><tr><td><b>Interface Ports</b></td>
+<td><p>Standard sealed and secured connectors:</p>
+<p>2 RS-232 serial ports; 1 standard USB port;</p>
+<p>1 powered USB port; 1 3.5mm audio jack;</p>
+<p>optional Ethernet (10/100/1000 Mbps) or</p>
+<p>isolated CAN port with SAE J1929 support</p>
+</td>
+</tr><tr><td><b>Indicators</b></td>
+<td>Power LED; warning LED; blue key status LED</td>
+</tr><tr><td><b>Scanner Support</b></td>
+<td><p>Handheld scanners and imagers connected via</p>
+<p>USB, RS-232 or Bluetooth</p>
+</td>
+</tr><tr><td><b>Mounting</b></td>
+<td><p>Quick release mount; standard RAM mounts;</p>
+<p>adapters for legacy vehicle computer mounts</p>
+</td>
+</tr></tbody></table>
+<span id="tablegrid_e936"></span>
+<div class="table-grid-mobile"></div>
+			<table border="1" cellpadding="1" cellspacing="0" width="100%">
+<caption><b>PHYSICAL CHARACTERISTICS</b></caption>
+<tbody><tr><td width="100"><b>Dimensions</b></td>
+<td><p>10.4 in. L x 9.3 in. W x 3.5 in. D</p>
+<p>265 mm L x 235 mm W x 90 mm D</p>
+</td>
+</tr><tr><td><b>Weight</b></td>
+<td>8.6 lbs./3.9 kg</td>
+</tr><tr><td><b>Keyboard Options</b></td>
+<td>External QWERTY and AZERTY, optional L-mount</td>
+</tr><tr><td><b>Power</b></td>
+<td><p>Internal power supply 12-48V nominal,</p>
+<p>designed for forklift power</p>
+</td>
+</tr><tr><td><p><b>UPS and Backup</b></p>
+<p><b>Battery</b></p>
+</td>
+<td><p>Rechargeable UPS battery for operation during</p>
+<p>power loss; internal rechargeable battery for</p>
+<p>multiple months of real-time clock backup</p>
+</td>
+</tr><tr><td><b>Display</b></td>
+<td><p>10.4 in. color XGA (1024 x 768) LCD; 32-bit</p>
+<p>color depth; choice of 400 or 1,000 NITs; 24-bit;</p>
+<p>LED backlight</p>
+</td>
+</tr><tr><td><b>Touchscreen</b></td>
+<td><p>Resistive touchscreen with passive stylus or</p>
+<p>finger operation</p>
+<p>Freezer version: integrated touchscreen heater</p>
+<p>evaporates external condensation when</p>
+<p>moving out of and into freezers</p>
+</td>
+</tr><tr><td><b>Keys</b></td>
+<td><p>Six (6) programmable macro keys; keyboard</p>
+<p>key; volume; brightness; blue key for 2nd level</p>
+<p>functions; on/off key</p>
+</td>
+</tr><tr><td><b>Interface Ports</b></td>
+<td><p>Standard sealed and secured connectors:</p>
+<p>2 RS-232 serial ports; 1 standard USB port;</p>
+<p>1 powered USB port; 1 3.5mm audio jack;</p>
+<p>optional Ethernet (10/100/1000 Mbps) or</p>
+<p>isolated CAN port with SAE J1929 support</p>
+</td>
+</tr><tr><td><b>Indicators</b></td>
+<td>Power LED; warning LED; blue key status LED</td>
+</tr><tr><td><b>Scanner Support</b></td>
+<td><p>Handheld scanners and imagers connected via</p>
+<p>USB, RS-232 or Bluetooth</p>
+</td>
+</tr><tr><td><b>Mounting</b></td>
+<td><p>Quick release mount; standard RAM mounts;</p>
+<p>adapters for legacy vehicle computer mounts</p>
+</td>
+</tr></tbody></table>
+<script type="text/javascript" src="VC80%20Vehicle%20Mount%20Mobile%20Computer%20Spec%20Sheet_files/tablegrid.js"></script>
+<span id="tablegrid_9660"></span>
+<div class="table-grid-mobile"></div>
+			<table border="1" cellpadding="1" cellspacing="0" width="100%">
+<tbody><tr><td><b>ACCESSORIES</b></td>
+</tr><tr><td>Corded scanners; cordless scanners; antennas; push-to-talk 
+speaker/ microphone; keyboards; keyboard mounts; adaptation kits (power 
+cables) for drop in replacements of legacy vehicle mount computer 
+installations; quick release mount; RAM mounts; scanner holder (for a 
+complete list of accessories, visit <a href="https://stage-www.zebra.com/us/en/products/mobile-computers/vehicle-mounted/vc80.html">www.zebra.com/vc80</a>)&#xA0;</td>
+</tr><tr><td><b>WARRANTY</b></td>
+</tr><tr><td>Subject to the terms of Zebra&#x2019;s hardware warranty 
+statement, the VC80 is warranted against defects in workmanship and 
+materials for a period of 1 (one) year from the date of shipment. For 
+complete warranty statement, go to: <a href="https://stage-www.zebra.com/us/en/support-downloads/warranty.html">http://www.zebra.com/warranty</a>.</td>
+</tr><tr><td><b>RECOMMENDED SERVICES</b></td>
+</tr><tr><td>Zebra OneCare Select</td>
+</tr></tbody></table>
