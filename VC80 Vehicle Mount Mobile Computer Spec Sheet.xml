@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<root>
+  <base>
+    <title>VC80 Vehicle Mount Mobile Computer Spec Sheet </title>
+    <sub_title>EXTEND YOUR DESKTOP APPLICATIONS TO FORKLIFTS AND MORE WITH FULL WINDOWS SUPPORT</sub_title>
+    <description>The VC80 makes it easy to give your forklift and other material handling equipment operators the real-time information they need to get the job done fast — and right. You get full Windows support — all the power you need to put your Warehouse&#xD;
+                  Management System and other desktop applications at their fingertips. You get a super rugged design, built for your toughest warehouse conditions — including the freezer. You get the fastest wireless connections available to keep drivers&#xD;
+                  connected to your data — and productive. And the compact design and flexible mounting options make it easy to install in even the most space constrained vehicles. The VC80 — real desktop power for your warehouse vehicles.</description>
+    <imgs>
+      <img>
+        <![CDATA[/content/zebra1/us/en/vc80-spec-sheet-test/_jcr_content/mainpar/columncontrol/col1par/imagecomponent_17c7/image.adapt.full.png]]>
+      </img>
+    </imgs>
+    <verbiage>
+      <![CDATA[
+                          <p><b>Freezer-ready for the coldest supply chain</b></p>
+                          <p>You get true frost and condensation free operation with</p>
+                          <p>touchscreen, board and battery heaters, plus smart temperature</p>
+                          <p>sensors that automatically control heater and heating speed.</p>
+                          <p><b>Maximum rugged design</b></p>
+                          <p>The VC80 is ready for your toughest environments, with dustand-</p>
+                          <p>water tight IP66 sealing, sealed connectors, and extreme</p>
+                          <p>temperature, shock and vibration testing.</p>
+                          <p><b>Easy to see indoors and outside</b></p>
+                          <p>Choose either 1,000 NITs for a super bright screen that is easy</p>
+                          <p>to see outdoors or 400 NITs for indoor operation.</p>
+                          <p>Programmable keys to simplify the most complex operations</p>
+                          <p>With six direct and six soft programmable keys, multi-step</p>
+                          <p>processes can be executed with a one keypress, boosting</p>
+                          <p>throughput and productivity.</p>
+                          <p><b>Flexible data entry &#x2014; touch or optional keyboard</b></p>
+                          <p>The touchscreen&#x2019;s soft keyboard and haptic vibration feedback</p>
+                          <p>make it easy to use touch input, even with the thickest gloves.</p>
+                          <p>Or you can choose to mount an optional keyboard on the bottom</p>
+                          <p>or side of the VC80.</p>
+                        ]]>
+    </verbiage>
+    <instructions>
+      <title>Easier and More Efficient to Use</title>
+      <content>
+        <![CDATA[<p><b>Designed for voice in your loudest environments</b></p><p>The very loud front facing speaker and instantly accessible volume</p><p>control make it easy to hear scanner feedback and</p><p>app notifications.</p><p><b>Fits in virtually any warehouse/material handling vehicle</b></p><p>Multiple mounting options, including standard RAM mounts</p><p>combine with a compact size for an easy fit and easy mounting,</p><p>even in the smallest vehicles.</p><p><b>Power to support today&#x2019;s graphics-intensive applications</b></p><p>Get the power you need to deliver blazing speed for your</p><p>applications with your choice of a dual core 1.33 GHz with</p><p>2GB RAM or a quad core 1.91 GHz processor with 4GB RAM.</p><p>Superior flexibility &#x2014; add bar code scanning, voice and more</p><p>Different workers need different capabilities. That&#x2019;s why the</p><p>VC80 offers all the ports you need to add bar code scanners,</p><p>mobile printers, a push-to-talk microphone and more.</p><p><b>Rock-solid fast wireless connectivity</b></p><p>With support for the latest wireless standards &#x2014; 802.11a/b/g/n/ac</p><p>and Bluetooth 4.0 &#x2014; plus a choice of internal or external antennas,</p><p>the VC80 can give your workers/deliver desktop wired-line style</p><p>performance on the most complex applications.</p><p><b>Repairable, right on the spot</b></p><p>Since the touchscreen &#x2014; the most frequently damaged component</p><p>&#x2014; is field replaceable, trips to the service depot</p><p>are eliminated, increasing device availability and your return</p><p>on investment.</p><p><b>Pair Bluetooth devices in a split second</b></p><p>Need a separate handheld scanner? With a quick scan of the</p><p>pairing bar code printed on the VC80 with Zebra&#x2019;s cordless LS3478</p><p>or DS3578 scanners, your workers are up and running.</p><p>Comprehensive Windows operating system (OS) support</p><p>The VC80 supports Embedded Standard 7 or Windows 7</p><p>Professional, and is Windows 10 ready, making it easy to extend</p><p>virtually any PC-based app to your warehouse vehicles.</p>]]>
+      </content>
+    </instructions>
+    <contact_footer>
+      <code>VC80</code>
+      <one_line_desc>PUT REAL DESKTOP POWER IN YOUR WAREHOUSE VEHICLES WITH THE VC80.</one_line_desc>
+    </contact_footer>
+  </base>
+  <specs>
+    <title>VC80 Specifications</title>
+    <sub_title>&#xD;
+                    For information about other printers in the QLn family, please visit our web site.&#xD;
+                  </sub_title>
+    <parameters>
+      <parameter>
+        <caption>PHYSICAL CHARACTERISTICS</caption>
+        <items>
+          <item>
+            <name>Dimensions</name>
+            <value>&#xD;
+                                10.4 in. L x 9.3 in. W x 3.5 in. D&#xD;
+                                265 mm L x 235 mm W x 90 mm D&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Weight</name>
+            <value>8.6 lbs./3.9 kg</value>
+          </item>
+          <item>
+            <name>Keyboard Options</name>
+            <value>External QWERTY and AZERTY, optional L-mount</value>
+          </item>
+          <item>
+            <name>Power</name>
+            <value>&#xD;
+                                Internal power supply 12-48V nominal,&#xD;
+                                designed for forklift power&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>&#xD;
+                                UPS and Backup&#xD;
+                                Battery&#xD;
+                              </name>
+            <value>&#xD;
+                                Rechargeable UPS battery for operation during&#xD;
+                                power loss; internal rechargeable battery for&#xD;
+                                multiple months of real-time clock backup&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Display</name>
+            <value>&#xD;
+                                10.4 in. color XGA (1024 x 768) LCD; 32-bit&#xD;
+                                color depth; choice of 400 or 1,000 NITs; 24-bit;&#xD;
+                                LED backlight&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Touchscreen</name>
+            <value>&#xD;
+                                Resistive touchscreen with passive stylus or&#xD;
+                                finger operation&#xD;
+                                Freezer version: integrated touchscreen heater&#xD;
+                                evaporates external condensation when&#xD;
+                                moving out of and into freezers&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Keys</name>
+            <value>&#xD;
+                                Six (6) programmable macro keys; keyboard&#xD;
+                                key; volume; brightness; blue key for 2nd level&#xD;
+                                functions; on/off key&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Interface Ports</name>
+            <value>&#xD;
+                                Standard sealed and secured connectors:&#xD;
+                                2 RS-232 serial ports; 1 standard USB port;&#xD;
+                                1 powered USB port; 1 3.5mm audio jack;&#xD;
+                                optional Ethernet (10/100/1000 Mbps) or&#xD;
+                                isolated CAN port with SAE J1929 support&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Indicators</name>
+            <value>Power LED; warning LED; blue key status LED</value>
+          </item>
+          <item>
+            <name>Scanner Support</name>
+            <value>&#xD;
+                                Handheld scanners and imagers connected via&#xD;
+                                USB, RS-232 or Bluetooth&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Mounting</name>
+            <value>&#xD;
+                                Quick release mount; standard RAM mounts;&#xD;
+                                adapters for legacy vehicle computer mounts&#xD;
+                              </value>
+          </item>
+        </items>
+      </parameter>
+      <parameter>
+        <caption>USER ENVIRONMENT</caption>
+        <items>
+          <item>
+            <name>OPERATING TEMP</name>
+            <value>-22° to 122° F/-30° to 50° C</value>
+          </item>
+          <item>
+            <name>Storage Temp.</name>
+            <value>-22° to 140° F/-30° to 60° C</value>
+          </item>
+        </items>
+      </parameter>
+      <parameter>
+        <caption>USER ENVIRONMENT (continued)</caption>
+        <items>
+          <item>
+            <name>Dimensions</name>
+            <value>&#xD;
+                                10.4 in. L x 9.3 in. W x 3.5 in. D&#xD;
+                                265 mm L x 235 mm W x 90 mm D&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Weight</name>
+            <value>8.6 lbs./3.9 kg</value>
+          </item>
+          <item>
+            <name>Keyboard Options</name>
+            <value>External QWERTY and AZERTY, optional L-mount</value>
+          </item>
+          <item>
+            <name>Power</name>
+            <value>&#xD;
+                                Internal power supply 12-48V nominal,&#xD;
+                                designed for forklift power&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>&#xD;
+                                UPS and Backup&#xD;
+                                Battery&#xD;
+                              </name>
+            <value>&#xD;
+                                Rechargeable UPS battery for operation during&#xD;
+                                power loss; internal rechargeable battery for&#xD;
+                                multiple months of real-time clock backup&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Display</name>
+            <value>&#xD;
+                                10.4 in. color XGA (1024 x 768) LCD; 32-bit&#xD;
+                                color depth; choice of 400 or 1,000 NITs; 24-bit;&#xD;
+                                LED backlight&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Touchscreen</name>
+            <value>&#xD;
+                                Resistive touchscreen with passive stylus or&#xD;
+                                finger operation&#xD;
+                                Freezer version: integrated touchscreen heater&#xD;
+                                evaporates external condensation when&#xD;
+                                moving out of and into freezers&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Keys</name>
+            <value>&#xD;
+                                Six (6) programmable macro keys; keyboard&#xD;
+                                key; volume; brightness; blue key for 2nd level&#xD;
+                                functions; on/off key&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Interface Ports</name>
+            <value>&#xD;
+                                Standard sealed and secured connectors:&#xD;
+                                2 RS-232 serial ports; 1 standard USB port;&#xD;
+                                1 powered USB port; 1 3.5mm audio jack;&#xD;
+                                optional Ethernet (10/100/1000 Mbps) or&#xD;
+                                isolated CAN port with SAE J1929 support&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Indicators</name>
+            <value>Power LED; warning LED; blue key status LED</value>
+          </item>
+          <item>
+            <name>Scanner Support</name>
+            <value>&#xD;
+                                Handheld scanners and imagers connected via&#xD;
+                                USB, RS-232 or Bluetooth&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Mounting</name>
+            <value>&#xD;
+                                Quick release mount; standard RAM mounts;&#xD;
+                                adapters for legacy vehicle computer mounts&#xD;
+                              </value>
+          </item>
+        </items>
+      </parameter>
+      <parameter>
+        <caption/>
+        <items>
+          <item>
+            <value>ACCESSORIES</value>
+          </item>
+          <item>
+            <value>Corded scanners; cordless scanners; antennas; push-to-talk speaker/ microphone; keyboards; keyboard mounts; adaptation kits (power cables) for drop in replacements of legacy vehicle mount computer installations; quick release&#xD;
+                                mount; RAM mounts; scanner holder (for a complete list of accessories, visit www.zebra.com/vc80) </value>
+          </item>
+          <item>
+            <value>WARRANTY</value>
+          </item>
+          <item>
+            <value>Subject to the terms of Zebra’s hardware warranty statement, the VC80 is warranted against defects in workmanship and materials for a period of 1 (one) year from the date of shipment. For complete warranty statement, go to:&#xD;
+                                http://www.zebra.com/warranty.</value>
+          </item>
+          <item>
+            <value>RECOMMENDED SERVICES</value>
+          </item>
+          <item>
+            <value>Zebra OneCare Select</value>
+          </item>
+        </items>
+      </parameter>
+    </parameters>
+  </specs>
+</root>

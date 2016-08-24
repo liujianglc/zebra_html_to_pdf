@@ -1,0 +1,414 @@
+<?xml version="1.0"?>
+<root>
+  <base>
+    <title>QLn Series </title>
+    <sub_title>ZEBRA’S POPULAR QL™ FAMILY OF DIRECT THERMAL MOBILE LABEL PRINTERS&#xD;
+</sub_title>
+    <description>Zebra’s popular QL™ family of direct thermal mobile label printers has built a highly satisfied following based upon its proven drop-resistant durability; user-friendly, productivity-boosting features; and easy integration. As Zebra’s third generation of  QL printers, the QLn series extends these QL-platform benefits to the “nth” power — whether you choose the QLn220™ for print widths up to 2 inches or the QLn320™ for 3-inch-wide printing&#xD;
+                </description>
+    <imgs>
+      <img>
+        <![CDATA[/content/zebra1/us/en/vc80-spec-sheet-test/_jcr_content/mainpar/columncontrol/col1par/imagecomponent_17c7/image.adapt.full.png]]>
+      </img>
+    </imgs>
+    <verbiage>
+      <![CDATA[
+                          <p>
+                          The printers&#x2019; over-molding and tempered-glass display &#x2014; coupled with their seamless, one-piece design &#x2014; make them more durable than ever before. These printers can boost your operation&#x2019;s productivity through their larger, sharper, easier-to-navigate display; faster, higher-quality printing; a variety of proactive alerts that help keep working printers in employees&#x2019; hands; and many convenient charging accessories. And, your IT department will find the QLn printers more intuitive to integrate into existing platforms thanks to Zebra&#x2019;s Link-OS&#xAE; environment. Other features such as Zebra&#xAE; Global Printing and improved network performance &#x2014; including 802.11n wireless LAN capability for more robust and reliable connectivity and throughput &#x2014; also make integration easier.
+                          </p>
+                          <p>
+                            With Zebra&#x2019;s Link-OS environment &#x2014; an innovative operating system combining a powerful Multiplatform Software Development Kit (SDK) and software applications &#x2014; the QLn printers are easy to integrate, manage and maintain from any location around the globe. Enabled with Print Touch&#x2122;, these Link-OS printers offer web page launching features using Near Field Communication (NFC), making it easy to access Zebra&#x2019;s extensive knowledge base of how-to videos and product support.
+
+                          </p>
+                        ]]>
+    </verbiage>
+    <instructions>
+      <title>Easier and More Efficient to Use&#xD;
+                          </title>
+      <content>&lt;p&gt;&#xD;
+                            New features make it easier to integrate the QLn printer into your existing network and manage it from anywhere in the world &amp;#x2014; saving you IT time and costs.&#xD;
+                            &lt;/p&gt;&lt;p&gt;&#xD;
+                            &lt;b&gt;&#xD;
+Easier to Integrate&#xD;
+                            &lt;/b&gt;&#xD;
+                          &lt;/p&gt;&lt;p&gt;&#xD;
+                            Move your business forward without the cost or stress of upgrades. Backwards compatibility with QL and QL Plus&amp;#x2122; models lets you upgrade to the QLn printer without changing media or label formats. The inclusion of the legacy CPCL programming language also allows mixed networks of QL/QL Plus and QLn products. .&#xD;
+                          &lt;/p&gt;&lt;p&gt;&#xD;
+                            Be assured of full compatibility with many other Zebra printers thanks to Zebra&amp;#x2019;s ZPL&amp;#xAE; programming language. And with ZBI 2.x&amp;#x2122;, directly connect your printers with legacy host systems and peripheral devices, such as scanners and scales.&#xD;
+                          &lt;/p&gt;&lt;p&gt;&#xD;
+                             Maintain robust and reliable connectivity, even for your largest data transfers, with Wi-Fi&amp;#xAE;-certified connectivity. Zebra&amp;#x2019;s 802.11n solution has dual-band support (5 GHz and 2.4 GHZ) and is fully compatible with 802.11a and 802.11b/g standards, so you can easily move business operations to the less-crowded 5 GHz band.&#xD;
+                          &lt;/p&gt;&lt;p&gt;&#xD;
+                            The Link-OS tools include: &amp;#x2022; Software Development Kit &amp;#x2014; create printing applications for Windows&amp;#xAE;, Apple&amp;#xAE;, Android&amp;#x2122;, Windows&amp;#xAE; CE, Windows&amp;#xAE; Mobile and BlackBerry&amp;#xAE; platforms. &amp;#x2022; Cloud Connect &amp;#x2014; connect to the Cloud directly and securely, forwarding data from any port. &amp;#x2022; Virtual Devices &amp;#x2014; support multiple programming languages on one printer and integrate Zebra Link-OS printers into existing legacy systems. &amp;#x2022;  Print Touch &amp;#x2014; simplify Bluetooth&amp;#xAE; pairing and launch Web-based help pages with NearField Communication-enabled devices&#xD;
+                            Quickly configure single printers with the Zebra Setup Utility and enable global printer management with ZebraNet&amp;#x2122; Bridge Enterprises. Efficiently print and optimize your labels with ZebraDesigner&amp;#x2122;  Pro for label design and ZebraDesigner drivers for Windows.  Print multiple languages on a single label using Zebra&amp;#x2019;s Unicode&amp;#x2122; UTF-16-compliant Global Printing Solution. Work with the confidence that comes with industry-leading solutions. The QLn420 features improved communication with leading handheld terminals that have been tested and verified  for maximum interoperability when using the printer with validated terminals. Zebra Independent Software Vendor (ISV) Partners create industry-leading software solutions to solve business problems, and Zebra works closely with these ISVs to integrate printing and other capabilities of Zebra products. Zebra-validated applications can be found at zebra.com/validation.&#xD;
+&#xD;
+                          &lt;/p&gt;&lt;p&gt;&#xD;
+                            &lt;b&gt;&#xD;
+Easier to Manage&#xD;
+                            &lt;/b&gt;&#xD;
+                          &lt;/p&gt;&lt;p&gt;&#xD;
+                             Manage all aspects of your networked Link-OS printers from  just one screen with Profile Manager. There&amp;#x2019;s no need to  switch between applications to get the job done, and you  can manage the simple admin console remotely on your PC,  tablet or smartphone.&#xD;
+                          &lt;/p&gt;&lt;p&gt;&#xD;
+                             Keep printers in service longer by managing specific, local printer and battery issues remotely over a wired IP network, including Serial and Bluetooth, via a Zebra Ethernet cradle. And with AirWatch&amp;#x2122; Connector, you can quickly connect your printer with the AirWatch device-management system via WLAN and Ethernet.&#xD;
+                          &lt;/p&gt;&lt;p&gt;&#xD;
+                            Automatically update printer firmware and configuration from a file server over 802.11 or Ethernet interfaces with the mirror function&#xD;
+                          &lt;/p&gt;&lt;p&gt;&#xD;
+                            Manage QLn printers using most of the popular third-party management software solutions. The printers also fully support Simple Network Management Protocol (SNMP).&#xD;
+&#xD;
+                          &lt;/p&gt;&lt;p&gt;&#xD;
+                            &lt;b&gt;&#xD;
+                              Easier to Maintain&#xD;
+                            &lt;/b&gt;&#xD;
+                          &lt;/p&gt;&lt;p&gt;&#xD;
+                          Reduce wasted time and lost productivity with the smart battery, which indicates the power and health of a printer&amp;#x2019;s battery. Effortlessly manage your printers and firmware by connecting your devices to your wired Ethernet network and/or cradle.&#xD;
+                          &lt;/p&gt;</content>
+    </instructions>
+    <instructions>
+      <title>Easier and More Efficient to Use&#xD;
+                          </title>
+      <content>
+        <![CDATA[<p>
+                            Multiple enhancements deliver significant operational advantages over the previous-generation QL and QL Plus series mobile printers.
+
+                          </p><p>
+                            <b>
+                              Easier to Use
+                            </b>
+                          </p><p>
+                            The QLn family of printers were designed to optimize business processes through easy operation and mobility &#x2014; reducing training requirements and increasing worker productivity.
+                          </p><p>
+                            Meet the increasing demand for mobile printing across different operating systems. QLn printers are &#x201C;Made for iPod&#xAE;/iPhone&#xAE;/ iPad&#xAE;&#x201D; certified and also support Android and Windows devices  via Multiplatform SDK apps.
+                          </p><p>
+                            Easily operate the printer using simple-to-navigate controls  and a user-friendly interface, which includes a help menu and alert messages.
+                          </p><p>
+                            Quickly access Zebra&#x2019;s extensive knowledge base of how-to  videos and product support with Print Touch-enabled Web page launching features.
+                          </p><p>
+                            Conveniently carry and store the printer thanks to a smaller design.
+                          </p><p>
+                            Achieve faster, higher-quality printing with lower power use through Power Smart Print Technology&#x2122;. Experience higher performance: &#x2022; Faster processing and throughput. &#x2022; Increased memory that handles printer&#x2019;s advanced functions and future firmware improvements, and stores more complex fonts, graphics and images. Increase user and operational efficiencies with convenient charging accessories.
+
+                          </p><p>
+                            <b>Longer Printer Uptime </b>
+                          </p><p>
+                            Improve operational productivity and reduce costs associated with downtime through fewer printing interruptions. Monitor and manage the printer remotely using the Windows PC-based AirWatch Connector. Prevent associates from being stuck printerless in the middle of their work. The printer enables proactive maintenance by displaying printer alert messages, smart battery charge and  health status. Avoid the downtime and costs of unnecessarily sending the printer away for servicing. Many issues can be remotely diagnosed and resolved (including firmware updates, configuration changes, and adding new fonts or graphics)over an Ethernet connection.
+
+                          </p>]]>
+      </content>
+    </instructions>
+    <contact_footer>
+      <code>VC80</code>
+      <one_line_desc>PUT REAL DESKTOP POWER IN YOUR WAREHOUSE VEHICLES WITH THE VC80. </one_line_desc>
+    </contact_footer>
+  </base>
+  <service>
+    <title>&#xD;
+                              ZebraCare Service&#xD;
+                            </title>
+    <content>&#xD;
+                                      Increase printer uptime and reduce lost productivity and unbudgeted repair costs by selecting a ZebraCare Depot service agreement. A cost-effective means of planning and budgeting your annual maintenance expenditures, your agreement ensures that trained Zebra technicians will bring your printer back to factory specifications. Zebra offers a variety of plans to fit your budget and business needs.&#xD;
+                                    </content>
+  </service>
+  <supplies>
+    <title>&#xD;
+                              Genuine Zebra™ Supplies&#xD;
+                            </title>
+    <content>&#xD;
+                                      Ensure consistent print quality, reduce downtime and increase productivity in your printing process with Genuine Zebra supplies. We manufacture each supplies product with the exact same materials every time so you always get crisp, readable and scannable output without needing to adjust the printer darkness setting between rolls.&#xD;
+                                    </content>
+  </supplies>
+  <specs>
+    <title>QLn Series Specifications</title>
+    <sub_title>&#xD;
+                      For information about other printers in the QLn family, please visit our web site.&#xD;
+                    </sub_title>
+    <parameters>
+      <parameter>
+        <caption/>
+        <items>
+          <item>
+            <name>&#xD;
+                                  Printer Name&#xD;
+                                </name>
+            <value>&#xD;
+                                  QLn220&#xD;
+                                   QLn320&#xD;
+                                </value>
+          </item>
+        </items>
+      </parameter>
+      <parameter>
+        <caption>STANDARD FEATURES</caption>
+        <items>
+          <item>
+            <value>&#xD;
+                                  Apple® iOS, Android, Windows Mobile and BlackBerry® connectivity Direct thermal printing of barcodes, text and graphics CPCL, EPL™ and ZPL® programming languages 256 MB Flash supports downloadable programs, receipt formats, fonts and graphics (64 MB available for user storage) 2450 mAh (nominal) 18.1 Wh removable, rechargeable Li-Ion battery Built-in battery charger Serial and USB ports (both support strain relief) Belt clip for unobtrusive and convenient printing (not compatible with extended capacity battery) Black mark and gap media sensing using fixed center position sensors Easy-to-use peel and present mode Label present sensor for issuing labels one at a time Tear bar for easy media dispensing Center-loading media locking for variable roll widths “Clamshell” design for easy media loading Management: Mirror, SNMP, Web server, Profile Manager, AirWatch® and Wavelink Avalanche® Large, easy-to-read LCD control panel (240 x 128 pixels) LCD can be customized using WML (text and icons) 5-way navigation buttons, two software defined keys Printer alerts on the display, help menus Tolerance of multiple drops from 5’/1.52 m to concrete IP43 dust- and water-resistance rating (IP54 with soft case) 400 MHz 32-bit ARM processor XML support Supports vertical and horizontal printing Printers can be used in any orientation QR barcode links to web-based help pages Zebra Print Touch simplifies Bluetooth pairing and launches web-based help pages with Near Field Communication (NFC) enabled devices Label odometer Real-time clock&#xD;
+                                </value>
+          </item>
+        </items>
+      </parameter>
+      <parameter>
+        <caption>PRINTER SPECIFICATIONS</caption>
+        <items>
+          <item>
+            <name>&#xD;
+                                  Resolution&#xD;
+                                </name>
+            <value>&#xD;
+                                203 dpi/8 dots per mm&#xD;
+                                </value>
+          </item>
+          <item>
+            <name>&#xD;
+                                  Memory&#xD;
+                                </name>
+            <value>&#xD;
+                                  128 MB RAM; 256 MB Flash (standard)&#xD;
+                                </value>
+          </item>
+          <item>
+            <name>&#xD;
+                                  Print Width&#xD;
+                                </name>
+            <value>&#xD;
+                                  QLn220: 1.9”/48 mm; QLn320: 2.8”/72 mm&#xD;
+                                </value>
+          </item>
+          <item>
+            <name>&#xD;
+                                  Print Length&#xD;
+                                </name>
+            <value>&#xD;
+                                   Min: 0.5”/12.7 mm; Max: 32”/813 mm&#xD;
+                                </value>
+          </item>
+          <item>
+            <name>&#xD;
+                                  Print Speed&#xD;
+                                </name>
+            <value>&#xD;
+                                  Up to 4”/102 mm per second&#xD;
+                                </value>
+          </item>
+          <item>
+            <name>&#xD;
+                                  Media Sensors&#xD;
+                                </name>
+            <value>&#xD;
+                                  Black mark and gap media sensing using fixed center position sensors; label present sensor for issuing labels one at a time&#xD;
+                                </value>
+          </item>
+        </items>
+      </parameter>
+      <parameter>
+        <caption>OPERATING CHARACTERISTICS </caption>
+        <items>
+          <item>
+            <name>&#xD;
+                                  Environment&#xD;
+                                </name>
+            <value>&#xD;
+                                  Operating Temperature: -4°F (-20°C) to 122°F (50°C) Storage/Transport Temperature: -13° F/-25° C to 158° F/65° C Operating Humidity: 10% to 90% noncondensing Storage Humidity: 10% to 90% non-condensing&#xD;
+                                </value>
+          </item>
+          <item>
+            <name>&#xD;
+                                  Agency Approvals&#xD;
+                                </name>
+            <value>&#xD;
+                                  Emissions: FCC Part 15, Subpart B, EN55022 Class-B, EN60950, EN55024 and VCCI class B Susceptibility: EN55024, EN61000-4-2, EN61000-4-3, EN61000-4-4, and EN61000-4-5 Safety: CE, UL, TUV, CSA&#xD;
+&#xD;
+                                </value>
+          </item>
+        </items>
+      </parameter>
+      <parameter>
+        <caption>MEDIA CHARACTERISTICS </caption>
+        <items>
+          <item>
+            <name>Media Width </name>
+            <value>&#xD;
+                                  &#xD;
+                                    QLn220: 0.63”/16 mm to 2.18”/55.4 mm&#xD;
+                                  &#xD;
+                                     QLn320: 1.0”/25 mm to 3.125”/79 mm;&#xD;
+                                  &#xD;
+                                </value>
+          </item>
+          <item>
+            <name>&#xD;
+                                  Media Length&#xD;
+                                </name>
+            <value>&#xD;
+                                  &#xD;
+                                    QLn220: 0.5”/12.7 mm to 32”/813 mm&#xD;
+                                  &#xD;
+                                  &#xD;
+                                    QLn320: 0.5”/12.7 mm to 32”/813 mm  or continuous&#xD;
+&#xD;
+                                  &#xD;
+                                </value>
+          </item>
+          <item>
+            <name>Maximum Media Roll Size</name>
+            <value>&#xD;
+                                  &#xD;
+                                    QLn220: 2.2”/55.9 mm OD on a 0.75”/19 mm or 1.375”/34.9 mm&#xD;
+                                  &#xD;
+                                  &#xD;
+                                    QLn320: 2.6”/66 mm OD on a 0.75”/19 mm or 1.375”/34.9 mm&#xD;
+                                  &#xD;
+  </value>
+          </item>
+          <item>
+            <name>Media Thickness</name>
+            <value>&#xD;
+                                &#xD;
+                                  QLn220: 2.3 mil to 5.5 mil tag stock and 6.5 mil label stock&#xD;
+                                &#xD;
+                                &#xD;
+                                  QLn320: 2.3 mil to 5.5 mil tag stock and 6.5 mil label stock&#xD;
+                                &#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Media Types</name>
+            <value>&#xD;
+                                   Die-cut labels and tags, linerless labels, receipt paper, black bar and gap sensing&#xD;
+                                </value>
+          </item>
+        </items>
+      </parameter>
+      <parameter>
+        <caption>PHYSICAL CHARACTERISTICS</caption>
+        <items>
+          <item>
+            <name>QLn220 </name>
+            <value>&#xD;
+                                    &#xD;
+Width: 3.5”/89 mm&#xD;
+                                    &#xD;
+                                    &#xD;
+ Height: 2.75”/70 mm&#xD;
+                                    &#xD;
+                                    &#xD;
+ Depth: 6.5”/165 mm&#xD;
+                                    &#xD;
+                                    &#xD;
+  Weight: 1.25 lbs/0.57 kg with battery&#xD;
+                                    &#xD;
+&#xD;
+&#xD;
+                                </value>
+          </item>
+          <item>
+            <name>QLn320 </name>
+            <value>&#xD;
+                                    &#xD;
+Width: 3.5”/89 mm&#xD;
+                                    &#xD;
+                                    &#xD;
+ Height: 2.75”/70 mm&#xD;
+                                    &#xD;
+                                    &#xD;
+ Depth: 6.5”/165 mm&#xD;
+                                    &#xD;
+                                    &#xD;
+  Weight: 1.25 lbs/0.57 kg with battery&#xD;
+                                    &#xD;
+&#xD;
+&#xD;
+                                </value>
+          </item>
+          <item>
+            <value>&#xD;
+                                  Note: The Extended Capacity Li-Ion smart battery option adds  0.20 lbs/0.09 kg to the weight and 0.6”/16 mm to the height of  either QLn series printer.&#xD;
+                                </value>
+          </item>
+        </items>
+      </parameter>
+      <parameter>
+        <caption>LINK-OS SOLUTIONS</caption>
+        <items>
+          <item>
+            <name>Software Tools  </name>
+            <value>Document Design: Quickly design a customized print solution using your business data and Zebra’s intuitive, plug-and-print design tools. Device Integration: Zebra offers apps and products designed to help you integrate Zebra devices into your existing systems. Device Management: Manage your print operations locally and globally with Zebra’s suite of device management tools. Developer Tools: Provides you the tools you need to create your own apps, including documentation, source code, programming languages, templates and more.&#xD;
+ </value>
+          </item>
+          <item>
+            <name>Firmware  </name>
+            <value> CPCL, EPL and ZPL programming languages ZBI 2.x™ — powerful programming language that lets printers run standalone applications, connect to peripherals, and much more  </value>
+          </item>
+        </items>
+      </parameter>
+      <parameter>
+        <caption>&#xD;
+                              FONTS/GRAPHICS/SYMBOLOGIES &#xD;
+                            </caption>
+        <items>
+          <item>
+            <name>&#xD;
+                                  Fonts and Character Sets&#xD;
+&#xD;
+                                </name>
+            <value>&#xD;
+                                    Standard Fonts: 25 bitmapped, 1 smooth,  scalable (CG Triumvirate Bold Condensed*) Optional Fonts: downloadable bitmapped/ scalable fonts International Character Sets (optional): Chinese 16 x 16 (traditional), 16 x 16 (simplified); Japanese 16 x 16, 24 x 24; Korean Mincho&#xD;
+                                </value>
+          </item>
+          <item>
+            <name>&#xD;
+                                  CPCL Barcode Symbologies&#xD;
+&#xD;
+                                </name>
+            <value>&#xD;
+                                  Linear Barcodes: Code 39, Code 93, UCC/ EAN128, Code 128, Codabar (NW-7), Interleaved 2-of-5, UPC-A, UPC-E, 2 and 5 digit add-on, EAN-8, EAN-13, 2 and 5 digit add-on 2-Dimensional: PDF417, MicroPDF417, MaxiCode, QR Code, GS1/DataBar™ (RSS) family, Aztec, MSI/ Plessey, FIM Postnet, Data Matrix, TLC39&#xD;
+                                </value>
+          </item>
+        </items>
+      </parameter>
+      <parameter>
+        <caption>&#xD;
+                                  COMMUNICATION AND INTERFACE CAPABILITIES &#xD;
+                              </caption>
+        <items>
+          <item>
+            <value>&#xD;
+                                  ZebraNet® 802.11n option — provides 802.11a/b/g/n WLAN support with: • WEP (PSK only), TKIP and AES encryption • WPA and WPA2 • 802.1x (with WPA or WPA2 only) −EAP-FAST, EAP-TTLS, EAP-TLS, PEAP, LEAP • 802.11d and 802.11i • Simultaneous Bluetooth 3.0 dual radio • Wi-Fi Certification • Fast roaming using PMK caching, CCKM or Fast Session resumption Bluetooth 3.0 radio • Security modes 1 — 4 • “Made for iPod/iPhone/iPad” certified • Key Bonding 10/100 Ethernet support (via charging cradle)&#xD;
+                                </value>
+          </item>
+          <item>
+            <name>&#xD;
+                                  Cabled Communications Specifications&#xD;
+&#xD;
+                                </name>
+            <value>&#xD;
+USB 2.0 full-speed interface (12 Mbps) Mini-B connector with optional strain relief Serial interface: 14-pin RS-232C port for communication to terminal or other host up to 115.2 Kbps&#xD;
+                                </value>
+          </item>
+        </items>
+      </parameter>
+      <parameter>
+        <caption>&#xD;
+                                  OPTIONS AND ACCESORIES &#xD;
+                              </caption>
+        <items>
+          <item>
+            <name>Charging Options&#xD;
+                                </name>
+            <value>&#xD;
+                                  Charge the battery inside the printer using: • AC adapter • Single cradle • Quad cradle Charge the battery outside the printer using: • Single smart charger • Quad charger&#xD;
+&#xD;
+                                </value>
+          </item>
+          <item>
+            <name>&#xD;
+                                  Optional Features and Accessories&#xD;
+                                </name>
+            <value>&#xD;
+                                  Linerless printing (with silicone platen roller only) ZBI 2.x Spare batteries 4300 mAh (nominal) removable extended capacity Li-Ion battery (4-cell bump out pack) AC adapter  SC2 smart battery single charger Quad battery charger Vehicle charger with cigarette lighter adapter QLn-EC—single bay Ethernet and charging cradle (not compatible with extended capacity battery) QLn-EC4—quad bay Ethernet and charging cradle, with internal switch and stacking port (not compatible with extended capacity battery) Shoulder strap Hand strap Soft case (IP54 rating when used) — not compatible with extended capacity battery Printer stand for tabletop mounting Serial and USB cables with strain relief&#xD;
+&#xD;
+                                </value>
+          </item>
+        </items>
+      </parameter>
+    </parameters>
+  </specs>
+</root>

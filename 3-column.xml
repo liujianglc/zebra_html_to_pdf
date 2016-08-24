@@ -1,0 +1,427 @@
+<?xml version="1.0"?>
+<root>
+  <base>
+    <title>MC40 Mobile Computer </title>
+    <sub_title>COOL CONSUMER-STYLING ON THE OUTSIDE - PURE INDUSTRIAL DESIGN ON THE INSIDE</sub_title>
+    <description>This sleek smartphone-style device delivers everything your associates need to provide your customers with the best in service and boost associate efficiency. They can scan an item bar code to look up price, inventory availability, item&#xD;
+                  location or product information; present a product comparison to help a customer with a buying decision; ring up the sale; complete a loyalty card application and even call virtually anyone in the store carrying any type of mobile device&#xD;
+                  for help with a question — all without ever walking away from the customer. When it comes to keeping your store at its best, the MC40 helps associates complete price audits, markups and markdowns, replenish store shelves and more, faster&#xD;
+                  than ever. With Bluetooth Smart, you get the real-time locationing visibility you need to maximize workforce productivity. And while the MC40 offers the cool consumer look you want for your customers on the outside, you get the durability,&#xD;
+                  data security and centralized management you need to achieve a true enterprise-class lifecycle — and low total cost of ownership</description>
+    <imgs>
+      <img>
+        <![CDATA[/content/zebra1/us/en/vc80-spec-sheet-test/_jcr_content/mainpar/columncontrol/col1par/imagecomponent_17c7/image.adapt.full.png]]>
+      </img>
+    </imgs>
+    <verbiage>
+      <![CDATA[
+                          <p>
+                            <b>Real business-class durability</b>
+                          </p>
+                          <p>
+                            You get the durability that Zebra is famous for &#x2014; the MC40 simply works, even if your employees drop it, bump it, use it in a dusty back room or splash liquid on it. And Gorilla Glass 3 improves the durability of three of
+                            the most vulnerable features &#x2014; the display and the scanner and camera exit windows.
+                          </p>
+                          <p>
+                            <b>
+                              Our most advanced scan technology
+                            </b>
+                          </p>
+                          <p>
+                            With our proprietary PRZM Intelligent Imaging technology, your workforce can expect unparalleled performance
+                            on just about any type of data imaginable &#x2014; from 1D and 2D bar codes printed on paper or displayed on a mobile device to photos and fully searchable and editable documents. Even bar codes that are dirty, damaged or poorly printed
+                            are captured with laser-style speed. And the extra wide best-in-class working range and field of view, plus omni-directional scanning make bar code capture easier than ever.
+                          </p>
+                          <p>
+                            <b>
+                              Give your workers one device for voice and data with
+                              Zebra-only powerful voice solutions
+                            </b>
+                          </p>
+                          <p>
+                             Zebra&#x2019;s Workforce Connect&#x2019;s PTT Express turns the MC40 into a two-way radio, right out of the box. And Workforce Connect Voice turns any MC40 into a mobile desk phone with robust PBX functionality.
+                          Rich photographic intelligence The high-resolution 8 MP camera allows associates to easily document the condition of an incoming shipment, a planogram, promotion compliance and more with the quick press of a button
+
+                        </p>
+                        
+                          <p>
+                            <b>
+                                Comprehensive and secure payment processing
+                            </b>
+                          </p>
+                          <p>
+                            The integrated magnetic stripe reader allows associates to scan a credit, gift or loyalty card.And with an encrypted head, information is never visible, helping meet PCI regulations.
+                          </p>
+                          <p>
+                            <b>
+ Android fortified for the enterprise
+                            </b>
+                          </p>
+                          <p>
+                            Zebra&#x2019;s Mobility
+                            Extensions (Mx) adds new features that transform Android from a consumer-to-enterprise-class OS.
+                          </p>
+                          <p>
+                            <b>
+Better manage your associate workforce with Bluetooth&#xAE; Smart
+                            </b>
+                          </p>
+                          <p>
+                            Support for indoor locationing solutions like Zebra&#x2019;s MPact Platform
+                            allows you to monitor worker location to ensure proper staffing in every area of the store, send task lists based on location and more.
+                          </p>
+                          <p>
+                            <b>
+Crystal clear voice calls
+                            </b>
+                          </p>
+                          <p>
+                            A speaker with four times the loudness of popular smartphones and
+                         noise cancelling technology ensure crystal clear audio on both ends of a call. User replaceable battery for guaranteed full shift availability An average of up to 8 to 10 hours of operation on a single charge virtually eliminates
+                         downtime due to a dead battery, increasing device utilization.
+                          </p>
+                          <p>
+                            <b>
+                                Customize with your brand
+                            </b>
+                          </p>
+                          <p>
+                            Pick the color for the bezel and add your logo to promote your brand, discourage theft and enable customers to instantly identify your associates.
+                          </p>
+                        ]]>
+    </verbiage>
+    <instructions/>
+    <contact_footer>
+      <code>MC40</code>
+      <one_line_desc>THE MC40 — THE NEW FACE OF RETAIL MOBILITY. </one_line_desc>
+    </contact_footer>
+  </base>
+  <specs>
+    <title>MC9200 Specifications</title>
+    <sub_title/>
+    <parameters>
+      <parameter>
+        <caption>PHYSICAL CHARACTERISTICS</caption>
+        <items>
+          <item>
+            <name>Dimensions</name>
+            <value>&#xD;
+                                10.4 in. L x 9.3 in. W x 3.5 in. D&#xD;
+                                265 mm L x 235 mm W x 90 mm D&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Weight</name>
+            <value>8.6 lbs./3.9 kg</value>
+          </item>
+          <item>
+            <name>Keyboard Options</name>
+            <value>External QWERTY and AZERTY, optional L-mount</value>
+          </item>
+          <item>
+            <name>Power</name>
+            <value>&#xD;
+                                Internal power supply 12-48V nominal,&#xD;
+                                designed for forklift power&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>&#xD;
+                                UPS and Backup&#xD;
+                                Battery&#xD;
+                              </name>
+            <value>&#xD;
+                                Rechargeable UPS battery for operation during&#xD;
+                                power loss; internal rechargeable battery for&#xD;
+                                multiple months of real-time clock backup&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Display</name>
+            <value>&#xD;
+                                10.4 in. color XGA (1024 x 768) LCD; 32-bit&#xD;
+                                color depth; choice of 400 or 1,000 NITs; 24-bit;&#xD;
+                                LED backlight&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Touchscreen</name>
+            <value>&#xD;
+                                Resistive touchscreen with passive stylus or&#xD;
+                                finger operation&#xD;
+                                Freezer version: integrated touchscreen heater&#xD;
+                                evaporates external condensation when&#xD;
+                                moving out of and into freezers&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Keys</name>
+            <value>&#xD;
+                                Six (6) programmable macro keys; keyboard&#xD;
+                                key; volume; brightness; blue key for 2nd level&#xD;
+                                functions; on/off key&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Interface Ports</name>
+            <value>&#xD;
+                                Standard sealed and secured connectors:&#xD;
+                                2 RS-232 serial ports; 1 standard USB port;&#xD;
+                                1 powered USB port; 1 3.5mm audio jack;&#xD;
+                                optional Ethernet (10/100/1000 Mbps) or&#xD;
+                                isolated CAN port with SAE J1929 support&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Indicators</name>
+            <value>Power LED; warning LED; blue key status LED</value>
+          </item>
+          <item>
+            <name>Scanner Support</name>
+            <value>&#xD;
+                                Handheld scanners and imagers connected via&#xD;
+                                USB, RS-232 or Bluetooth&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Mounting</name>
+            <value>&#xD;
+                                Quick release mount; standard RAM mounts;&#xD;
+                                adapters for legacy vehicle computer mounts&#xD;
+                              </value>
+          </item>
+        </items>
+      </parameter>
+      <parameter>
+        <caption>PERFORMANCE CHARACTERISTICS </caption>
+        <items>
+          <item>
+            <name>CPU</name>
+            <value>Dual core 1GHz OMAP 4 processor </value>
+          </item>
+          <item>
+            <name>Operating System</name>
+            <value>Android 4.4.4 with Mobility Extensions (Mx), turning Android into a true enterprise class OS Microsoft Windows Embedded Compact 7.0; Microsoft Windows Embedded Handheld 6.5.3&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Memory</name>
+            <value>512MB/2GB; 1GB/2GB (Premium models only&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>App Development</name>
+            <value>PSDK and EMDK available through Zebra Support Central Web site&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Data Capture Options&#xD;
+</name>
+            <value>SE965:1,4 1D standard range scan engine SE1524-ER:2,5 1D extended range scan engine reads up to 45 ft./13.72 m away • SE4500:2,4 Omnidirectional 1D/2D imaging engine • SE4750:2,4 Next generation omnidirectional 1D/2D imaging engine for faster data capture. Available for Premium configurations only in three models - Standard Range (SR), Mid Range (MR) and DPM. SE4600:2,6 Extended range omnidirectional 1D/2D imaging engine reads as far as 30 ft./9.14 m SE4500-DL:2,6 1D/2D DL imaging engine reads 1D, 2D and PDF codes on driver’s licenses&#xD;
+                              </value>
+          </item>
+        </items>
+      </parameter>
+      <parameter>
+        <caption>USER ENVIRONMENT</caption>
+        <items>
+          <item>
+            <name>OPERATING TEMP</name>
+            <value>-22° to 122° F/-30° to 50° C</value>
+          </item>
+          <item>
+            <name>Storage Temp.</name>
+            <value>-22° to 140° F/-30° to 60° C</value>
+          </item>
+        </items>
+      </parameter>
+      <parameter>
+        <caption>USER ENVIRONMENT (continued)</caption>
+        <items>
+          <item>
+            <name>Dimensions</name>
+            <value>&#xD;
+                                10.4 in. L x 9.3 in. W x 3.5 in. D&#xD;
+                                265 mm L x 235 mm W x 90 mm D&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Weight</name>
+            <value>8.6 lbs./3.9 kg</value>
+          </item>
+          <item>
+            <name>Keyboard Options</name>
+            <value>External QWERTY and AZERTY, optional L-mount</value>
+          </item>
+          <item>
+            <name>Power</name>
+            <value>&#xD;
+                                Internal power supply 12-48V nominal,&#xD;
+                                designed for forklift power&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>&#xD;
+                                UPS and Backup&#xD;
+                                Battery&#xD;
+                              </name>
+            <value>&#xD;
+                                Rechargeable UPS battery for operation during&#xD;
+                                power loss; internal rechargeable battery for&#xD;
+                                multiple months of real-time clock backup&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Display</name>
+            <value>&#xD;
+                                10.4 in. color XGA (1024 x 768) LCD; 32-bit&#xD;
+                                color depth; choice of 400 or 1,000 NITs; 24-bit;&#xD;
+                                LED backlight&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Touchscreen</name>
+            <value>&#xD;
+                                Resistive touchscreen with passive stylus or&#xD;
+                                finger operation&#xD;
+                                Freezer version: integrated touchscreen heater&#xD;
+                                evaporates external condensation when&#xD;
+                                moving out of and into freezers&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Keys</name>
+            <value>&#xD;
+                                Six (6) programmable macro keys; keyboard&#xD;
+                                key; volume; brightness; blue key for 2nd level&#xD;
+                                functions; on/off key&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Interface Ports</name>
+            <value>&#xD;
+                                Standard sealed and secured connectors:&#xD;
+                                2 RS-232 serial ports; 1 standard USB port;&#xD;
+                                1 powered USB port; 1 3.5mm audio jack;&#xD;
+                                optional Ethernet (10/100/1000 Mbps) or&#xD;
+                                isolated CAN port with SAE J1929 support&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Indicators</name>
+            <value>Power LED; warning LED; blue key status LED</value>
+          </item>
+          <item>
+            <name>Scanner Support</name>
+            <value>&#xD;
+                                Handheld scanners and imagers connected via&#xD;
+                                USB, RS-232 or Bluetooth&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>Mounting</name>
+            <value>&#xD;
+                                Quick release mount; standard RAM mounts;&#xD;
+                                adapters for legacy vehicle computer mounts&#xD;
+                              </value>
+          </item>
+        </items>
+      </parameter>
+      <parameter>
+        <caption>WIRELESS DATA COMMUNICATIONS</caption>
+        <items>
+          <item>
+            <name>WLAN </name>
+            <value>Android: IEEE 802.11 a/b/g/n/d/h/i/k/r WinCE/WEH: IEEE 802.11 a/b/g/n/d/h/i</value>
+          </item>
+          <item>
+            <name>Data Rate</name>
+            <value>802.11a: up to 54 Mbps; 802.11b: up to 11 Mbps; 802.11g: up to 54 Mbps; 802.11n: up to 65 Mbps</value>
+          </item>
+          <item>
+            <name>Antenna </name>
+            <value>Internal </value>
+          </item>
+          <item>
+            <name>Frequency Range</name>
+            <value> All country dependent: 802.11a – 5 GHz; 802.11b – 2.4 GHz; 802.11g – 2.4 GHz; 802.11n – 2.4GHz and 5GHz&#xD;
+</value>
+          </item>
+          <item>
+            <name>&#xD;
+                                WLAN Security&#xD;
+                              </name>
+            <value>&#xD;
+                                WPA2 Enterprise, 802.1x; EAP-TLS; TTLS (CHAP, MS-CHAP, MS-CHAPv2, PAP or MD5); PEAP (TLS, MSCHAPv2, EAP-GTC); LEAP, EAP-FAST (TLS, MS-CHAPv2, EAP-GTC), WPA2/AES, CCX v4, FIPS 140-2 and IPv6&#xD;
+                              </value>
+          </item>
+          <item>
+            <name>&#xD;
+                                WPAN (Bluetooth)&#xD;
+                              </name>
+            <value>&#xD;
+                                Stonestreet stack: Bluetooth 4.0 plus BLE or WBA Microsoft stack: Bluetooth Version 2.1 with EDR&#xD;
+                              </value>
+          </item>
+        </items>
+      </parameter>
+      <parameter>
+        <caption>VOICE AND AUDIO </caption>
+        <items>
+          <item>
+            <name>Audio </name>
+            <value>High quality speaker, microphone and 2.5mm headset jack </value>
+          </item>
+          <item>
+            <name>Voice Directed Picking </name>
+            <value>TekSpeech Pro Certified; compatible with 3rd party VDP clients (WEHH and CE7 only) </value>
+          </item>
+          <item>
+            <name>&#xD;
+                                Push-to-Talk&#xD;
+                              </name>
+            <value>&#xD;
+                                Workforce Connect PTT Express (client included) with headset and speakerphone modes; wired headset support&#xD;
+                              </value>
+          </item>
+        </items>
+      </parameter>
+      <parameter>
+        <caption/>
+        <items>
+          <item>
+            <value>ADDITIONAL MOBILITY DNA SOLUTIONS</value>
+          </item>
+          <item>
+            <value>All-touch Terminal Emulation (TE), powered by Wavelink, enables the easy conversion of “green screen” TE apps into HTML5 intuitive all-touch apps that run on Zebra’s Android mobile computers — without writing any code. (Available on Android models only in 2H 2015.)</value>
+          </item>
+          <item>
+            <value>&#xD;
+                                Created to complement Google’s Software Development Kit for Android, Zebra’s EMDK provides a comprehensive toolkit to make it easy to integrate all the functions in our enterprise-class Android devices, from bar code scanning to payment processing.&#xD;
+                              </value>
+          </item>
+          <item>
+            <value>PERIPHERALS AND ACCESSORIE</value>
+          </item>
+          <item>
+            <value>Corded scanners; cordless scanners; antennas; push-to-talk speaker/ microphone; keyboards; keyboard mounts; adaptation kits (power cables) for drop in replacements of legacy vehicle mount computer installations; quick release&#xD;
+                                mount; RAM mounts; scanner holder (for a complete list of accessories, visit www.zebra.com/vc80) </value>
+          </item>
+          <item>
+            <value>REGULATORY</value>
+          </item>
+          <item>
+            <value>Subject to the terms of Zebra’s hardware warranty statement, the VC80 is warranted against defects in workmanship and materials for a period of 1 (one) year from the date of shipment. For complete warranty statement, go to:&#xD;
+                                http://www.zebra.com/warranty.</value>
+          </item>
+          <item>
+            <value>RECOMMENDED SERVICES</value>
+          </item>
+          <item>
+            <value>Zebra OneCare</value>
+          </item>
+        </items>
+      </parameter>
+    </parameters>
+  </specs>
+</root>
